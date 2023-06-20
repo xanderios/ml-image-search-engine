@@ -1,0 +1,1 @@
+This is a repository inspired by the Fireship tutorial on building an image search engine with Weaviate. The tutorial can be found [here](https://fireship.io/lessons/image-search-engine/).
